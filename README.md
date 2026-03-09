@@ -107,7 +107,7 @@ The model demonstrates strong discrimination capability while maintaining balanc
 ---
 
 ## 📌 Future Improvements
-- Hyperparameter tuning using GridSearchCV
+- Hyperparameter tuning using GridSearchCV (Done)
 - Try other kernels (linear, polynomial)
 - Compare with Logistic Regression and XGBoost
 - Feature selection techniques (RFE, ANOVA)
